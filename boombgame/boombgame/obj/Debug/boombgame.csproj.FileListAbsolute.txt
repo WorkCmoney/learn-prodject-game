@@ -1,0 +1,12 @@
+C:\Users\kay\source\repos\boombgame\boombgame\bin\Debug\boombgame.exe.config
+C:\Users\kay\source\repos\boombgame\boombgame\bin\Debug\boombgame.exe
+C:\Users\kay\source\repos\boombgame\boombgame\bin\Debug\boombgame.pdb
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.Form1.resources
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.Properties.Resources.resources
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.csproj.GenerateResource.cache
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.csproj.CoreCompileInputs.cache
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.exe
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.pdb
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.Form2.resources
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.score.resources
+C:\Users\kay\source\repos\boombgame\boombgame\obj\Debug\boombgame.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\bin\Debug\小魚測試版本.exe.config
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\bin\Debug\小魚測試版本.exe
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\bin\Debug\小魚測試版本.pdb
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.Form1.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.Properties.Resources.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.csproj.GenerateResource.cache
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.csproj.CoreCompileInputs.cache
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.exe
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.pdb
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.Form2.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.Introduction.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.sorce.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.UserControl2.resources
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.csprojAssemblyReference.cache
+C:\Users\kay\source\repos\小魚測試版本\小魚測試版本\obj\Debug\小魚測試版本.log_in.resources

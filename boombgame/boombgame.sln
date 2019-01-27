@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boombgame", "boombgame\boombgame.csproj", "{AEBB5647-1B9C-45B9-9999-93EE3AEAA11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBB5647-1B9C-45B9-9999-93EE3AEAA11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBB5647-1B9C-45B9-9999-93EE3AEAA11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBB5647-1B9C-45B9-9999-93EE3AEAA11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBB5647-1B9C-45B9-9999-93EE3AEAA11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4848CD97-EE6B-4163-B47B-BAE772FECE8A}
+	EndGlobalSection
+EndGlobal
